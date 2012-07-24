@@ -1,4 +1,4 @@
-A living, loving blog post
+A living blog post
 ================================
 
 
