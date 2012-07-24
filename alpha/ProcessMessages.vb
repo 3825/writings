@@ -19,7 +19,7 @@ Public Sub ss(ByVal ss As ss)
                     End If
 
                     'ss
-                    ss.ss(ss.ProcessDispositionType.Successful)
+                    ss.ss(ss.ss.ss)
 
                 Catch ex As Exception
                     'ss
