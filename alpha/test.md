@@ -1,9 +1,7 @@
-GitHub Flavored Markdown
+A living, loving blog post
 ================================
 
-*Visit the [project 3825 blog](http://project3825.blogspot.com).*  
-*Visit the [project 3825 blog](http://project3825.blogspot.com).*  
-*Visit the [project 3825 blog](http://project3825.blogspot.com).*  
+
 
 A bit of the GitHub spice
 -------------------------
